@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Downloads/Galacticon/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="960e665b0af0a2e86d19015764a6c3f7ea58b72f">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5aa05850a3f535dabf58bb25734efcd310922e1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Downloads/Galacticon/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/pastorwill/Downloads/Galacticon/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_46043f9ac700c2be2372bbc30b5789ceda8c385e/classes.dex" />
+    </item>
+
+</items>
